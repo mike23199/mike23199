@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚 I'm currently learning <br>🎯 Goals: <br></p>
 
 ###
 
@@ -37,7 +37,7 @@
 </div>
 
 ## 📫 Επικοινωνία
-- ✉️ Email:   
-- 🔗 LinkedIn: 
+- ✉️ Email: mixalision04@gmail.com   
+- 🔗 LinkedIn: https://www.linkedin.com/in/mixalis-ioannidis-50a543294/
 
 ###
